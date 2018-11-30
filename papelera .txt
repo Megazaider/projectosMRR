@@ -1,0 +1,5 @@
+<!-- sigin and sign up -->
+                        <a class="text-dark login_btn align-self-center mx-3" href="#myModal_btn" data-toggle="modal" data-target="#myModal_btn">
+                            <i class="far fa-user"></i>
+                        </a>
+                        <!-- sigin and sign up -->
